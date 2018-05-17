@@ -1,0 +1,4 @@
+Constraints: Currently runs on Python3 exclusively
+
+Server Usage: python3 serv.py
+Client Usage: python3 cli.py
