@@ -3,7 +3,7 @@ import binascii
 import hashlib
 
 #############################################################
-            #Primes and their Generators for K.E.#
+            #Primes and their Generators for K.E.	    #
 #############################################################
 primes = {
     #1024
@@ -42,7 +42,7 @@ primes = {
 }
 
 #############################################################
-                    #D.H. Key Exchange#
+                    #D.H. Key Exchange			    #
 #############################################################
 class DiffieHellman:
 	def __init__(self, group=14): #Default grouping/constructor for D.H. - Default is 2048
