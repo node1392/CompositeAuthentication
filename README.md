@@ -1,4 +1,4 @@
-# CompositeAuthentication
+# Composite Authentication
 
 CompAuth is a new authentication protocol designed to minimize the damage caused by session hijacking and to provide perfect forward secrecy in web applications. It does this by combining Diffie-Hellman key exchange with chained hashing to create an encryption key that changes with each transaction, thus ensuring perfect forward secrecy.
 
